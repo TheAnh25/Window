@@ -1,0 +1,40 @@
+Z:\C#DOCS\Winform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\C#DOCS\Winform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\C#DOCS\Winform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.NavigationForm.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.FormLogon.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.SignUp.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Page1.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Page2.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Product.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Dashboard.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.FormLogon.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.NavigationForm.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.SignUp.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.NhanVien.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.QuanLyCoffee.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.QuanLyKhachHang.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Admin.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Baocaodoanhthukd.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Baocaodoanhthunv.resources
